@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<img src="meme.gif" alt="Loser"/>
+<img src="meme.gif" alt="Loser" style="max-height: 300px"/>
