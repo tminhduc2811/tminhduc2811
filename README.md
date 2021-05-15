@@ -7,7 +7,7 @@ I'm working as a fullstack developer.
 What I'm into
 
 <code><img height="25" src="https://raw.githubusercontent.com/tminhduc2811/tminhduc2811/main/images/go.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/tminhduc2811/tminhduc2811/main/images/java-logo.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/tminhduc2811/tminhduc2811/main/images/java.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/tminhduc2811/tminhduc2811/main/images/javascript.svg"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/tminhduc2811/tminhduc2811/main/images/typescript.svg"></code>
 
