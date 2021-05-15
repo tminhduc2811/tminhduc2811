@@ -11,25 +11,25 @@ I'm working as a fullstack developer.
 
 What I'm into
 
-<code><img height="35" src="https://raw.githubusercontent.com/tminhduc2811/tminhduc2811/main/images/go.svg"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/tminhduc2811/tminhduc2811/main/images/java.svg"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/tminhduc2811/tminhduc2811/main/images/javascript.svg"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/tminhduc2811/tminhduc2811/main/images/typescript.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/tminhduc2811/tminhduc2811/main/images/go.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/tminhduc2811/tminhduc2811/main/images/java.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/tminhduc2811/tminhduc2811/main/images/javascript.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/tminhduc2811/tminhduc2811/main/images/typescript.svg"></code>
 
 Able to work on
 
-<code><img height="35" src="https://raw.githubusercontent.com/tminhduc2811/tminhduc2811/main/images/csharp.svg"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/tminhduc2811/tminhduc2811/main/images/python.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/tminhduc2811/tminhduc2811/main/images/csharp.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/tminhduc2811/tminhduc2811/main/images/python.svg"></code>
 
 ## Techstacks
 
 ### Backend
-<code><img height="45" src="https://raw.githubusercontent.com/tminhduc2811/tminhduc2811/main/images/gin.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/tminhduc2811/tminhduc2811/main/images/spring.svg"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/tminhduc2811/tminhduc2811/main/images/gin.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/tminhduc2811/tminhduc2811/main/images/spring.svg"></code>
 
 
 ### Frontend
-<code><img height="45" src="https://raw.githubusercontent.com/tminhduc2811/tminhduc2811/main/images/reactjs.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/tminhduc2811/tminhduc2811/main/images/vuejs.svg"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/tminhduc2811/tminhduc2811/main/images/angular.svg"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/tminhduc2811/tminhduc2811/main/images/nextjs.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/tminhduc2811/tminhduc2811/main/images/reactjs.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/tminhduc2811/tminhduc2811/main/images/vuejs.svg"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/tminhduc2811/tminhduc2811/main/images/angular.svg"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/tminhduc2811/tminhduc2811/main/images/nextjs.png"></code>
