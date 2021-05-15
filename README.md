@@ -26,3 +26,10 @@ Able to work on
 ### Backend
 <code><img height="45" src="https://raw.githubusercontent.com/tminhduc2811/tminhduc2811/main/images/gin.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/tminhduc2811/tminhduc2811/main/images/spring.svg"></code>
+
+
+### Frontend
+<code><img height="45" src="https://raw.githubusercontent.com/tminhduc2811/tminhduc2811/main/images/reactjs.png"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/tminhduc2811/tminhduc2811/main/images/vuejs.svg"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/tminhduc2811/tminhduc2811/main/images/angular.svg"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/tminhduc2811/tminhduc2811/main/images/nextjs.png"></code>
