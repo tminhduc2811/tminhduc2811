@@ -1,4 +1,10 @@
-<img src="meme.gif" alt="Loser" />
+## Hi, I'm Duc.
 
-## Checkout
-<a href="https://lunglinh.vn">https://lunglinh.vn</a>
+I'm working as a fullstack developer.
+
+## Languages
+
+<div class="half">
+  <a href="https://github.com/QC-L"><img src="https://github-readme-stats.vercel.app/api?username=tminhduc2811&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50"></img></a>
+  <a href="https://github.com/QC-L"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tminhduc2811&hide=Objective-C,shell,swift&title_color=1abc9c&icon_color=1abc9c&text_color=798795&bg_color=2c3e50" height="195"></img></a>
+</div>
