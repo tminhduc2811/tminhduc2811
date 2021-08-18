@@ -33,3 +33,7 @@ Able to work on
 <code><img height="35" src="https://raw.githubusercontent.com/tminhduc2811/tminhduc2811/main/images/vuejs.svg"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/tminhduc2811/tminhduc2811/main/images/angular.svg"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/tminhduc2811/tminhduc2811/main/images/nextjs.png"></code>
+
+## Other projects
+- [Path Tracking For Unmanned Vehicle](https://www.youtube.com/watch?v=ZicUJzQk5Go)
+- [Vehicle Detection & Counting](https://www.youtube.com/watch?v=ahraIy9xIAA)
