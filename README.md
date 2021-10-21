@@ -4,7 +4,7 @@ I'm working as a fullstack developer.
 
 <div class="half">
   <a href="https://github.com/tminhduc2811"><img src="https://github-readme-stats.vercel.app/api?username=tminhduc2811&show_icons=true&theme=radical"></img></a>
-  <a href="https://github.com/tminhduc2811"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tminhduc2811&hide=python,c,c%23,PowerShell,kotlin&theme=radical" height="195"></img></a>
+  <a href="https://github.com/tminhduc2811"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tminhduc2811&hide=python,c,c%23,PowerShell,kotlin,tex&theme=radical" height="195"></img></a>
 </div>
 
 ## Languages
